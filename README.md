@@ -2,7 +2,7 @@
 
 Проектная работа курса [«Веб‑разработчик»](https://practicum.yandex.ru/web/ "Курс «Веб‑разработчик» — Яндекс Практикум") платформы [Яндекс Практикум](https://practicum.yandex.ru/ "Яндекс Практикум").   
 
-[Посмотреть проект](https://oselinova.github.io/russian-travel/)
+[Посмотреть проект](https://oselinova.github.io/mesto/)
 
 ## Описание проекта
 Одностраничный, адаптивный сайт, который создан с использованием HTML, CSS и JavaScript.   
