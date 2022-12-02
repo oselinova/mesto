@@ -7,15 +7,16 @@
   border: none;
   background-color: transparent;
   background-image: url(../../../images/icon/close-icom.png);
+  transition: 0.5s ease-in-out;
   cursor: pointer;
 }
 
 .popup__close:hover {
   opacity: 0.6;
-  transition: 0.5s ease-in-out;
+  cursor: pointer;
 }
 
-@media screen and (max-width: 550px) {
+@media screen and (max-width: 644px) {
   .popup__close {
     align-items: flex-start;
     background-image: url(../../../images/icon/close-icom-mob.png);
