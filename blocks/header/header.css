@@ -16,5 +16,6 @@
   .header {
     margin: 28px auto 0 auto;
     min-width: 100%;
+    height: 56px;
   }
 }

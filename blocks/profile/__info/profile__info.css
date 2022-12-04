@@ -16,13 +16,12 @@
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
-    gap: 14px 10px;
+    gap: 12px 10px;
   }
 }
 
 @media screen and (max-width: 320px) {
   .profile__info {
-    width: 282px;
     margin: 0 19px 0 19px;
   }
 }
